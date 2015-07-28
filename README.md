@@ -5,7 +5,7 @@ lazy.js, A standalone javascript library to lazy load images
 
 Lazy load your images using html5 data attribute.
 
-Just add the image to be loaded as data-lazy attibute to the image tag.
+Just add data-lazy attibute to the image tag which needs to be loaded lazily.
 
 ```HTML
 <img src="img/loading.gif" data-lazy="img/show.png" style="width:200px; height:200px;" />
